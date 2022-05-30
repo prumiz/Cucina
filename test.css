@@ -1,0 +1,91 @@
+body {
+
+background-image: url("http://pimmedia.egger.com/l/decor/U222_9/s/Detail/f/881x513/8803432857630");
+background-color: hsl(194, 63%, 62%);
+font-family: 'Ubuntu', sans-serif;
+
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+h1 {
+    /*colore della cucina in hex*/
+    background-color: ##fff9e4;
+}
+
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.par_plite{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-image: url("H2033_10_1024x588.jpeg");
+        color: #fff9e4;
+
+}
+
+.forni {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+   
+}
+
+.fornelli {
+        background-image: url("H2033_10_1024x588.jpeg");
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 200px;
+        color: #fff9e4;
+}
+
+
+
+.head_plita {
+        background-image: url("H2033_10_1024x588.jpeg");
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 200px;
+        color: #fff9e4;
+
+
+}
+
+.head_chiuveta {
+    background-image: url("H2033_10_1024x588.jpeg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    color: #fff9e4;
+    }
+
+.par_chiuvete {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("H2033_10_1024x588.jpeg");
+    color: #fff9e4;
+
+}
+
+.chiuvete {
+    background-image: url("H2033_10_1024x588.jpeg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    color: #fff9e4;
+}
+
